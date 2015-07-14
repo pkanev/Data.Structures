@@ -1,0 +1,6 @@
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q05CountOfOccurences\bin\Debug\Q05CountOfOccurences.exe.config
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q05CountOfOccurences\bin\Debug\Q05CountOfOccurences.exe
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q05CountOfOccurences\bin\Debug\Q05CountOfOccurences.pdb
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q05CountOfOccurences\obj\Debug\Q05CountOfOccurences.csprojResolveAssemblyReference.cache
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q05CountOfOccurences\obj\Debug\Q05CountOfOccurences.exe
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q05CountOfOccurences\obj\Debug\Q05CountOfOccurences.pdb

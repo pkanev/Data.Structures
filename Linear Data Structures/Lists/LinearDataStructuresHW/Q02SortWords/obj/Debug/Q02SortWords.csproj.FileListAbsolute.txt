@@ -1,0 +1,6 @@
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q02SortWords\bin\Debug\Q02SortWords.exe.config
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q02SortWords\bin\Debug\Q02SortWords.exe
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q02SortWords\bin\Debug\Q02SortWords.pdb
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q02SortWords\obj\Debug\Q02SortWords.csprojResolveAssemblyReference.cache
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q02SortWords\obj\Debug\Q02SortWords.exe
+c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q02SortWords\obj\Debug\Q02SortWords.pdb
