@@ -1,6 +1,5 @@
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q03LongestSubsequence\bin\Debug\Q03LongestSubsequence.exe.config
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q03LongestSubsequence\bin\Debug\Q03LongestSubsequence.exe
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q03LongestSubsequence\bin\Debug\Q03LongestSubsequence.pdb
-c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q03LongestSubsequence\obj\Debug\Q03LongestSubsequence.csprojResolveAssemblyReference.cache
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q03LongestSubsequence\obj\Debug\Q03LongestSubsequence.exe
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q03LongestSubsequence\obj\Debug\Q03LongestSubsequence.pdb

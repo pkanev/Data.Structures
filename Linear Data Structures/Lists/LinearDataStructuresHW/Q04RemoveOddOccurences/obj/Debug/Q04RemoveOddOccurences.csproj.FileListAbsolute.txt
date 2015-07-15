@@ -1,6 +1,5 @@
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q04RemoveOddOccurences\bin\Debug\Q04RemoveOddOccurences.exe.config
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q04RemoveOddOccurences\bin\Debug\Q04RemoveOddOccurences.exe
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q04RemoveOddOccurences\bin\Debug\Q04RemoveOddOccurences.pdb
-c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q04RemoveOddOccurences\obj\Debug\Q04RemoveOddOccurences.csprojResolveAssemblyReference.cache
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q04RemoveOddOccurences\obj\Debug\Q04RemoveOddOccurences.exe
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q04RemoveOddOccurences\obj\Debug\Q04RemoveOddOccurences.pdb

@@ -1,6 +1,5 @@
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q07ImplementALinkedList\bin\Debug\Q07ImplementALinkedList.exe.config
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q07ImplementALinkedList\bin\Debug\Q07ImplementALinkedList.exe
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q07ImplementALinkedList\bin\Debug\Q07ImplementALinkedList.pdb
-C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q07ImplementALinkedList\obj\Debug\Q07ImplementALinkedList.csprojResolveAssemblyReference.cache
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q07ImplementALinkedList\obj\Debug\Q07ImplementALinkedList.exe
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q07ImplementALinkedList\obj\Debug\Q07ImplementALinkedList.pdb

@@ -1,6 +1,9 @@
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q01SumAndAverage\bin\Debug\Q01SumAndAverage.exe.config
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q01SumAndAverage\bin\Debug\Q01SumAndAverage.exe
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q01SumAndAverage\bin\Debug\Q01SumAndAverage.pdb
-c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q01SumAndAverage\obj\Debug\Q01SumAndAverage.csprojResolveAssemblyReference.cache
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q01SumAndAverage\obj\Debug\Q01SumAndAverage.exe
 c:\users\don piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q01SumAndAverage\obj\Debug\Q01SumAndAverage.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\LinearDataStructuresHW\Q01SumAndAverage\obj\Debug\Q01SumAndAverage.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\Lists\LinearDataStructuresHW\Q01SumAndAverage\bin\Debug\Q01SumAndAverage.exe.config
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\Lists\LinearDataStructuresHW\Q01SumAndAverage\obj\Debug\Q01SumAndAverage.exe
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\Lists\LinearDataStructuresHW\Q01SumAndAverage\obj\Debug\Q01SumAndAverage.pdb

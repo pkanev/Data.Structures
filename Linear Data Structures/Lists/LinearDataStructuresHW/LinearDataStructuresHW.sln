@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q06ReversedList", "Q06Rever
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q07ImplementALinkedList", "Q07ImplementALinkedList\Q07ImplementALinkedList.csproj", "{2C33D06E-5302-471D-9793-295B9BB39FC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q08DistanceInLabyrinth", "Q08DistanceInLabyrinth\Q08DistanceInLabyrinth.csproj", "{886BC696-0DF6-495B-92E2-ED7E48B5F14B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2C33D06E-5302-471D-9793-295B9BB39FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C33D06E-5302-471D-9793-295B9BB39FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C33D06E-5302-471D-9793-295B9BB39FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886BC696-0DF6-495B-92E2-ED7E48B5F14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886BC696-0DF6-495B-92E2-ED7E48B5F14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886BC696-0DF6-495B-92E2-ED7E48B5F14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886BC696-0DF6-495B-92E2-ED7E48B5F14B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

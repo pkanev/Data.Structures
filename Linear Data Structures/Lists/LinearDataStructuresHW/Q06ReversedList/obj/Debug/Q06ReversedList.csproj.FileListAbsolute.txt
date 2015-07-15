@@ -1,6 +1,5 @@
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q06ReversedList\bin\Debug\Q06ReversedList.exe.config
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q06ReversedList\bin\Debug\Q06ReversedList.exe
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q06ReversedList\bin\Debug\Q06ReversedList.pdb
-C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q06ReversedList\obj\Debug\Q06ReversedList.csprojResolveAssemblyReference.cache
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q06ReversedList\obj\Debug\Q06ReversedList.exe
 C:\Users\Don Piter\documents\visual studio 2013\Projects\LinearDataStructuresHW\Q06ReversedList\obj\Debug\Q06ReversedList.pdb
