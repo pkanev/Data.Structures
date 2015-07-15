@@ -1,0 +1,8 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\LinearDataStructuresHW\Q08DistanceInLabyrinth\bin\Debug\Q08DistanceInLabyrinth.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\LinearDataStructuresHW\Q08DistanceInLabyrinth\bin\Debug\Q08DistanceInLabyrinth.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\LinearDataStructuresHW\Q08DistanceInLabyrinth\bin\Debug\Q08DistanceInLabyrinth.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\LinearDataStructuresHW\Q08DistanceInLabyrinth\obj\Debug\Q08DistanceInLabyrinth.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\LinearDataStructuresHW\Q08DistanceInLabyrinth\obj\Debug\Q08DistanceInLabyrinth.pdb
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\Lists\LinearDataStructuresHW\Q08DistanceInLabyrinth\bin\Debug\Q08DistanceInLabyrinth.exe.config
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\Lists\LinearDataStructuresHW\Q08DistanceInLabyrinth\obj\Debug\Q08DistanceInLabyrinth.exe
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\Lists\LinearDataStructuresHW\Q08DistanceInLabyrinth\obj\Debug\Q08DistanceInLabyrinth.pdb
