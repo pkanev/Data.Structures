@@ -1,0 +1,10 @@
+C:\Users\Don Piter\Desktop\3. Circular-Queue\CircularQueue\bin\Debug\CircularQueue.exe
+C:\Users\Don Piter\Desktop\3. Circular-Queue\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\Users\Don Piter\Desktop\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Desktop\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.exe
+C:\Users\Don Piter\Desktop\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.pdb
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\StacksAndQueues\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.exe
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\StacksAndQueues\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.pdb
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\StacksAndQueues\3. Circular-Queue\CircularQueue\bin\Debug\CircularQueue.exe
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\StacksAndQueues\3. Circular-Queue\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\StacksAndQueues\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.csprojResolveAssemblyReference.cache

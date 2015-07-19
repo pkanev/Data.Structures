@@ -1,0 +1,5 @@
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q02CalculateSequenceWithAQueue\bin\Debug\Q02CalculateSequenceWithAQueue.exe.config
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q02CalculateSequenceWithAQueue\bin\Debug\Q02CalculateSequenceWithAQueue.exe
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q02CalculateSequenceWithAQueue\bin\Debug\Q02CalculateSequenceWithAQueue.pdb
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q02CalculateSequenceWithAQueue\obj\Debug\Q02CalculateSequenceWithAQueue.exe
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q02CalculateSequenceWithAQueue\obj\Debug\Q02CalculateSequenceWithAQueue.pdb

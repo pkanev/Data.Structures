@@ -5,3 +5,5 @@ C:\Users\Don Piter\Desktop\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\Doub
 C:\Users\Don Piter\Desktop\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
 C:\Users\Don Piter\Desktop\data structures exercises\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
 C:\Users\Don Piter\Desktop\data structures exercises\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\Lists\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\Don Piter\Desktop\Data Struct git\Data.Structures\Linear Data Structures\Lists\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

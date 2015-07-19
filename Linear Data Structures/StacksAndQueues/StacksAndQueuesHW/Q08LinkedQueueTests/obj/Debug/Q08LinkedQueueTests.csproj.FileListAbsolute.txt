@@ -1,0 +1,7 @@
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q08LinkedQueueTests\bin\Debug\Q08LinkedQueueTests.dll
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q08LinkedQueueTests\bin\Debug\Q08LinkedQueueTests.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q08LinkedQueueTests\bin\Debug\Q07LinkedQueue.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q08LinkedQueueTests\bin\Debug\Q07LinkedQueue.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q08LinkedQueueTests\obj\Debug\Q08LinkedQueueTests.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q08LinkedQueueTests\obj\Debug\Q08LinkedQueueTests.dll
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q08LinkedQueueTests\obj\Debug\Q08LinkedQueueTests.pdb

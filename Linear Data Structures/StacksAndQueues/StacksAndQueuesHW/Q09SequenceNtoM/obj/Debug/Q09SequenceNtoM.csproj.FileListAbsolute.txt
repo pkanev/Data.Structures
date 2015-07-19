@@ -1,0 +1,6 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\StacksAndQueuesHW\Q09SequenceNtoM\bin\Debug\Q09SequenceNtoM.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\StacksAndQueuesHW\Q09SequenceNtoM\bin\Debug\Q09SequenceNtoM.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\StacksAndQueuesHW\Q09SequenceNtoM\bin\Debug\Q09SequenceNtoM.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\StacksAndQueuesHW\Q09SequenceNtoM\obj\Debug\Q09SequenceNtoM.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\StacksAndQueuesHW\Q09SequenceNtoM\obj\Debug\Q09SequenceNtoM.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\StacksAndQueuesHW\Q09SequenceNtoM\obj\Debug\Q09SequenceNtoM.pdb

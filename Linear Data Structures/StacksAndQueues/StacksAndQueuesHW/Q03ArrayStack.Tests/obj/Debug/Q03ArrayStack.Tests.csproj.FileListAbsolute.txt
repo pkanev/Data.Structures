@@ -1,0 +1,7 @@
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack.Tests\obj\Debug\Q03ArrayStack.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack.Tests\bin\Debug\Q03ArrayStack.Tests.dll
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack.Tests\bin\Debug\Q03ArrayStack.Tests.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack.Tests\bin\Debug\Q03ArrayStack.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack.Tests\bin\Debug\Q03ArrayStack.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack.Tests\obj\Debug\Q03ArrayStack.Tests.dll
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack.Tests\obj\Debug\Q03ArrayStack.Tests.pdb

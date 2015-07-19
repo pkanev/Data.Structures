@@ -1,0 +1,6 @@
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack\bin\Debug\Q03ArrayStack.exe.config
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack\bin\Debug\Q03ArrayStack.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack\bin\Debug\Q03ArrayStack.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack\obj\Debug\Q03ArrayStack.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack\obj\Debug\Q03ArrayStack.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q03ArrayStack\obj\Debug\Q03ArrayStack.pdb

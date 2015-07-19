@@ -1,0 +1,6 @@
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q01ReverseNumbersWithAStack\bin\Debug\Q01ReverseNumbersWithAStack.exe.config
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q01ReverseNumbersWithAStack\bin\Debug\Q01ReverseNumbersWithAStack.exe
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q01ReverseNumbersWithAStack\bin\Debug\Q01ReverseNumbersWithAStack.pdb
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q01ReverseNumbersWithAStack\obj\Debug\Q01ReverseNumbersWithAStack.csprojResolveAssemblyReference.cache
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q01ReverseNumbersWithAStack\obj\Debug\Q01ReverseNumbersWithAStack.exe
+c:\users\don piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q01ReverseNumbersWithAStack\obj\Debug\Q01ReverseNumbersWithAStack.pdb

@@ -1,0 +1,6 @@
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q07LinkedQueue\bin\Debug\Q07LinkedQueue.exe.config
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q07LinkedQueue\bin\Debug\Q07LinkedQueue.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q07LinkedQueue\bin\Debug\Q07LinkedQueue.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q07LinkedQueue\obj\Debug\Q07LinkedQueue.exe
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q07LinkedQueue\obj\Debug\Q07LinkedQueue.pdb
+C:\Users\Don Piter\documents\visual studio 2013\Projects\StacksAndQueuesHW\Q07LinkedQueue\obj\Debug\Q07LinkedQueue.csprojResolveAssemblyReference.cache
