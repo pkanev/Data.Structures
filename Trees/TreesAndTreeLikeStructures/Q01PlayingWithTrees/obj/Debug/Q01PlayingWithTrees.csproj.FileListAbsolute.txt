@@ -1,0 +1,6 @@
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q01PlayingWithTrees\bin\Debug\Q01PlayingWithTrees.exe.config
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q01PlayingWithTrees\bin\Debug\Q01PlayingWithTrees.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q01PlayingWithTrees\bin\Debug\Q01PlayingWithTrees.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q01PlayingWithTrees\obj\Debug\Q01PlayingWithTrees.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q01PlayingWithTrees\obj\Debug\Q01PlayingWithTrees.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q01PlayingWithTrees\obj\Debug\Q01PlayingWithTrees.pdb

@@ -1,0 +1,6 @@
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q02TraverseAndSaveDirContents\bin\Debug\Q02TraverseAndSaveDirContents.exe.config
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q02TraverseAndSaveDirContents\bin\Debug\Q02TraverseAndSaveDirContents.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q02TraverseAndSaveDirContents\bin\Debug\Q02TraverseAndSaveDirContents.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q02TraverseAndSaveDirContents\obj\Debug\Q02TraverseAndSaveDirContents.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q02TraverseAndSaveDirContents\obj\Debug\Q02TraverseAndSaveDirContents.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\TreesAndTreeLikeStructures\Q02TraverseAndSaveDirContents\obj\Debug\Q02TraverseAndSaveDirContents.pdb
