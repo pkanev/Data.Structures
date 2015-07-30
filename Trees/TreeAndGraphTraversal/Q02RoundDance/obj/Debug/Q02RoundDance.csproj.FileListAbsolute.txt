@@ -1,0 +1,6 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q02RoundDance\bin\Debug\Q02RoundDance.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q02RoundDance\bin\Debug\Q02RoundDance.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q02RoundDance\bin\Debug\Q02RoundDance.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q02RoundDance\obj\Debug\Q02RoundDance.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q02RoundDance\obj\Debug\Q02RoundDance.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q02RoundDance\obj\Debug\Q02RoundDance.pdb

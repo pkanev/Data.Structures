@@ -1,0 +1,5 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q04LongestPathInATree\bin\Debug\Q04LongestPathInATree.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q04LongestPathInATree\bin\Debug\Q04LongestPathInATree.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q04LongestPathInATree\bin\Debug\Q04LongestPathInATree.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q04LongestPathInATree\obj\Debug\Q04LongestPathInATree.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q04LongestPathInATree\obj\Debug\Q04LongestPathInATree.pdb

@@ -1,0 +1,5 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q03RideTheHorse\bin\Debug\Q03RideTheHorse.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q03RideTheHorse\bin\Debug\Q03RideTheHorse.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q03RideTheHorse\bin\Debug\Q03RideTheHorse.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q03RideTheHorse\obj\Debug\Q03RideTheHorse.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q03RideTheHorse\obj\Debug\Q03RideTheHorse.pdb

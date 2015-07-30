@@ -1,0 +1,6 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q01FindTheRoot\bin\Debug\Q01FindTheRoot.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q01FindTheRoot\bin\Debug\Q01FindTheRoot.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q01FindTheRoot\bin\Debug\Q01FindTheRoot.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q01FindTheRoot\obj\Debug\Q01FindTheRoot.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q01FindTheRoot\obj\Debug\Q01FindTheRoot.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\TreeAndGraphTraversal\Q01FindTheRoot\obj\Debug\Q01FindTheRoot.pdb
