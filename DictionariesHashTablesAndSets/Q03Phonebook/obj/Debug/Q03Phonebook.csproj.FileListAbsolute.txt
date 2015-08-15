@@ -1,0 +1,7 @@
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q03Phonebook\bin\Debug\Q03Phonebook.exe.config
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q03Phonebook\bin\Debug\Q03Phonebook.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q03Phonebook\bin\Debug\Q03Phonebook.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q03Phonebook\bin\Debug\Q01Dictionary.dll
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q03Phonebook\bin\Debug\Q01Dictionary.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q03Phonebook\obj\Debug\Q03Phonebook.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q03Phonebook\obj\Debug\Q03Phonebook.pdb

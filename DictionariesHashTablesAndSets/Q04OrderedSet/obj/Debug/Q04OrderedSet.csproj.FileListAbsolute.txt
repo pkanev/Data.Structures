@@ -1,0 +1,11 @@
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q04OrderedSet\bin\Debug\Q04OrderedSet.exe.config
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q04OrderedSet\obj\Debug\Q04OrderedSet.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q04OrderedSet\bin\Debug\Q04OrderedSet.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q04OrderedSet\bin\Debug\Q04OrderedSet.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q04OrderedSet\bin\Debug\Q01Dictionary.dll
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q04OrderedSet\bin\Debug\Q01Dictionary.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q04OrderedSet\obj\Debug\Q04OrderedSet.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q04OrderedSet\obj\Debug\Q04OrderedSet.pdb
+C:\Users\Don Piter\Desktop\DictionariesHashTablesAndSets\Q04OrderedSet\bin\Debug\Q04OrderedSet.exe.config
+C:\Users\Don Piter\Desktop\DictionariesHashTablesAndSets\Q04OrderedSet\obj\Debug\Q04OrderedSet.exe
+C:\Users\Don Piter\Desktop\DictionariesHashTablesAndSets\Q04OrderedSet\obj\Debug\Q04OrderedSet.pdb

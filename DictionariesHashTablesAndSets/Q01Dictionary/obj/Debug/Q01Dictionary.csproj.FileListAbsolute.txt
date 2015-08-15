@@ -1,0 +1,5 @@
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q01Dictionary\bin\Debug\Q01Dictionary.dll
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q01Dictionary\bin\Debug\Q01Dictionary.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q01Dictionary\obj\Debug\Q01Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q01Dictionary\obj\Debug\Q01Dictionary.dll
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q01Dictionary\obj\Debug\Q01Dictionary.pdb

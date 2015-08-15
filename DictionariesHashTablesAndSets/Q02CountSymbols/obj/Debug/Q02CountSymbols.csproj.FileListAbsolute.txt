@@ -1,0 +1,8 @@
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q02CountSymbols\bin\Debug\Q02CountSymbols.exe.config
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q02CountSymbols\bin\Debug\Q02CountSymbols.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q02CountSymbols\bin\Debug\Q02CountSymbols.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q02CountSymbols\bin\Debug\Q01Dictionary.dll
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q02CountSymbols\bin\Debug\Q01Dictionary.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q02CountSymbols\obj\Debug\Q02CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q02CountSymbols\obj\Debug\Q02CountSymbols.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\DictionariesHashTablesAndSets\Q02CountSymbols\obj\Debug\Q02CountSymbols.pdb
