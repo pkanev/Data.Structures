@@ -1,0 +1,16 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\04StringEditor\bin\Debug\04StringEditor.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\04StringEditor\bin\Debug\04StringEditor.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\04StringEditor\bin\Debug\04StringEditor.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\04StringEditor\bin\Debug\PowerCollections.dll
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\04StringEditor\bin\Debug\PowerCollections.xml
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\04StringEditor\obj\Debug\04StringEditor.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\04StringEditor\obj\Debug\04StringEditor.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\04StringEditor\obj\Debug\04StringEditor.pdb
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\04StringEditor\bin\Debug\04StringEditor.exe.config
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\04StringEditor\bin\Debug\04StringEditor.exe
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\04StringEditor\bin\Debug\04StringEditor.pdb
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\04StringEditor\bin\Debug\PowerCollections.dll
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\04StringEditor\bin\Debug\PowerCollections.xml
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\04StringEditor\obj\Debug\04StringEditor.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\04StringEditor\obj\Debug\04StringEditor.exe
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\04StringEditor\obj\Debug\04StringEditor.pdb

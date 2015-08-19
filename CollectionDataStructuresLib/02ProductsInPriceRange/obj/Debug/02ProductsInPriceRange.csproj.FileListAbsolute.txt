@@ -1,0 +1,16 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\02ProductsInPriceRange.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\02ProductsInPriceRange.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\02ProductsInPriceRange.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\PowerCollections.dll
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\PowerCollections.xml
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\02ProductsInPriceRange\obj\Debug\02ProductsInPriceRange.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\02ProductsInPriceRange\obj\Debug\02ProductsInPriceRange.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\02ProductsInPriceRange\obj\Debug\02ProductsInPriceRange.pdb
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\02ProductsInPriceRange.exe.config
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\02ProductsInPriceRange.exe
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\02ProductsInPriceRange.pdb
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\PowerCollections.dll
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\02ProductsInPriceRange\bin\Debug\PowerCollections.xml
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\02ProductsInPriceRange\obj\Debug\02ProductsInPriceRange.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\02ProductsInPriceRange\obj\Debug\02ProductsInPriceRange.exe
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\02ProductsInPriceRange\obj\Debug\02ProductsInPriceRange.pdb

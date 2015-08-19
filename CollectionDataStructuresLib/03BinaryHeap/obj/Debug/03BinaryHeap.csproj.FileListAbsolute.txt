@@ -1,0 +1,12 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\03BinaryHeap\bin\Debug\03BinaryHeap.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\03BinaryHeap\bin\Debug\03BinaryHeap.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\03BinaryHeap\bin\Debug\03BinaryHeap.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\03BinaryHeap\obj\Debug\03BinaryHeap.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\03BinaryHeap\obj\Debug\03BinaryHeap.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\03BinaryHeap\obj\Debug\03BinaryHeap.pdb
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\03BinaryHeap\bin\Debug\03BinaryHeap.exe.config
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\03BinaryHeap\bin\Debug\03BinaryHeap.exe
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\03BinaryHeap\bin\Debug\03BinaryHeap.pdb
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\03BinaryHeap\obj\Debug\03BinaryHeap.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\03BinaryHeap\obj\Debug\03BinaryHeap.exe
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\03BinaryHeap\obj\Debug\03BinaryHeap.pdb

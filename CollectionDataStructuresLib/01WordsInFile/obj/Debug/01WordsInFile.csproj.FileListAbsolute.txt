@@ -1,0 +1,12 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\01WordsInFile\bin\Debug\01WordsInFile.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\01WordsInFile\bin\Debug\01WordsInFile.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\01WordsInFile\bin\Debug\01WordsInFile.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\01WordsInFile\obj\Debug\01WordsInFile.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\01WordsInFile\obj\Debug\01WordsInFile.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CollectionDataStructuresLib\01WordsInFile\obj\Debug\01WordsInFile.pdb
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\01WordsInFile\bin\Debug\01WordsInFile.exe.config
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\01WordsInFile\obj\Debug\01WordsInFile.exe
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\01WordsInFile\obj\Debug\01WordsInFile.pdb
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\01WordsInFile\bin\Debug\01WordsInFile.exe
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\01WordsInFile\bin\Debug\01WordsInFile.pdb
+C:\Users\Don Piter\Desktop\CollectionDataStructuresLib\01WordsInFile\obj\Debug\01WordsInFile.csprojResolveAssemblyReference.cache
