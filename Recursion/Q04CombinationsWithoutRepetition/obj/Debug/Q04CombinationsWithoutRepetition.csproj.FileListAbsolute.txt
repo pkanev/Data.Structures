@@ -1,0 +1,8 @@
+C:\Users\Don Piter\Desktop\RecursionLab\Q04CombinationsWithoutRepetition\bin\Debug\Q04CombinationsWithoutRepetition.exe.config
+C:\Users\Don Piter\Desktop\RecursionLab\Q04CombinationsWithoutRepetition\bin\Debug\Q04CombinationsWithoutRepetition.exe
+C:\Users\Don Piter\Desktop\RecursionLab\Q04CombinationsWithoutRepetition\bin\Debug\Q04CombinationsWithoutRepetition.pdb
+C:\Users\Don Piter\Desktop\RecursionLab\Q04CombinationsWithoutRepetition\obj\Debug\Q04CombinationsWithoutRepetition.exe
+C:\Users\Don Piter\Desktop\RecursionLab\Q04CombinationsWithoutRepetition\obj\Debug\Q04CombinationsWithoutRepetition.pdb
+C:\Users\Don Piter\Desktop\Recursion\Q04CombinationsWithoutRepetition\bin\Debug\Q04CombinationsWithoutRepetition.exe.config
+C:\Users\Don Piter\Desktop\Recursion\Q04CombinationsWithoutRepetition\obj\Debug\Q04CombinationsWithoutRepetition.exe
+C:\Users\Don Piter\Desktop\Recursion\Q04CombinationsWithoutRepetition\obj\Debug\Q04CombinationsWithoutRepetition.pdb

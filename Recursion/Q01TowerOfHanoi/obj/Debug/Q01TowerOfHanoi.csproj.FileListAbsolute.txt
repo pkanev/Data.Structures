@@ -1,0 +1,12 @@
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q01TowerOfHanoi\bin\Debug\Q01TowerOfHanoi.exe.config
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q01TowerOfHanoi\bin\Debug\Q01TowerOfHanoi.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q01TowerOfHanoi\bin\Debug\Q01TowerOfHanoi.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q01TowerOfHanoi\obj\Debug\Q01TowerOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q01TowerOfHanoi\obj\Debug\Q01TowerOfHanoi.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q01TowerOfHanoi\obj\Debug\Q01TowerOfHanoi.pdb
+C:\Users\Don Piter\Desktop\RecursionLab\Q01TowerOfHanoi\bin\Debug\Q01TowerOfHanoi.exe.config
+C:\Users\Don Piter\Desktop\RecursionLab\Q01TowerOfHanoi\obj\Debug\Q01TowerOfHanoi.exe
+C:\Users\Don Piter\Desktop\RecursionLab\Q01TowerOfHanoi\obj\Debug\Q01TowerOfHanoi.pdb
+C:\Users\Don Piter\Desktop\Recursion\Q01TowerOfHanoi\bin\Debug\Q01TowerOfHanoi.exe.config
+C:\Users\Don Piter\Desktop\Recursion\Q01TowerOfHanoi\obj\Debug\Q01TowerOfHanoi.exe
+C:\Users\Don Piter\Desktop\Recursion\Q01TowerOfHanoi\obj\Debug\Q01TowerOfHanoi.pdb

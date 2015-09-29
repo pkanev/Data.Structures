@@ -1,0 +1,9 @@
+C:\Users\Don Piter\Desktop\RecursionLab\Q06ConnectedAreas\bin\Debug\Q06ConnectedAreas.exe.config
+C:\Users\Don Piter\Desktop\RecursionLab\Q06ConnectedAreas\bin\Debug\Q06ConnectedAreas.exe
+C:\Users\Don Piter\Desktop\RecursionLab\Q06ConnectedAreas\bin\Debug\Q06ConnectedAreas.pdb
+C:\Users\Don Piter\Desktop\RecursionLab\Q06ConnectedAreas\obj\Debug\Q06ConnectedAreas.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Desktop\RecursionLab\Q06ConnectedAreas\obj\Debug\Q06ConnectedAreas.exe
+C:\Users\Don Piter\Desktop\RecursionLab\Q06ConnectedAreas\obj\Debug\Q06ConnectedAreas.pdb
+C:\Users\Don Piter\Desktop\Recursion\Q06ConnectedAreas\bin\Debug\Q06ConnectedAreas.exe.config
+C:\Users\Don Piter\Desktop\Recursion\Q06ConnectedAreas\obj\Debug\Q06ConnectedAreas.exe
+C:\Users\Don Piter\Desktop\Recursion\Q06ConnectedAreas\obj\Debug\Q06ConnectedAreas.pdb

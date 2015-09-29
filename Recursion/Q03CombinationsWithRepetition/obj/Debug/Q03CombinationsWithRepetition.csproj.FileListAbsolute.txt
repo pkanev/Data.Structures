@@ -1,0 +1,9 @@
+C:\Users\Don Piter\Desktop\RecursionLab\Q03CombinationsWithRepetition\bin\Debug\Q03CombinationsWithRepetition.exe.config
+C:\Users\Don Piter\Desktop\RecursionLab\Q03CombinationsWithRepetition\obj\Debug\Q03CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Desktop\RecursionLab\Q03CombinationsWithRepetition\bin\Debug\Q03CombinationsWithRepetition.exe
+C:\Users\Don Piter\Desktop\RecursionLab\Q03CombinationsWithRepetition\bin\Debug\Q03CombinationsWithRepetition.pdb
+C:\Users\Don Piter\Desktop\RecursionLab\Q03CombinationsWithRepetition\obj\Debug\Q03CombinationsWithRepetition.exe
+C:\Users\Don Piter\Desktop\RecursionLab\Q03CombinationsWithRepetition\obj\Debug\Q03CombinationsWithRepetition.pdb
+C:\Users\Don Piter\Desktop\Recursion\Q03CombinationsWithRepetition\bin\Debug\Q03CombinationsWithRepetition.exe.config
+C:\Users\Don Piter\Desktop\Recursion\Q03CombinationsWithRepetition\obj\Debug\Q03CombinationsWithRepetition.exe
+C:\Users\Don Piter\Desktop\Recursion\Q03CombinationsWithRepetition\obj\Debug\Q03CombinationsWithRepetition.pdb

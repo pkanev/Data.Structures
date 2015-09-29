@@ -1,0 +1,12 @@
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q02NestedLoops\bin\Debug\Q02NestedLoops.exe.config
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q02NestedLoops\bin\Debug\Q02NestedLoops.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q02NestedLoops\bin\Debug\Q02NestedLoops.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q02NestedLoops\obj\Debug\Q02NestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q02NestedLoops\obj\Debug\Q02NestedLoops.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\Q02NestedLoops\obj\Debug\Q02NestedLoops.pdb
+C:\Users\Don Piter\Desktop\RecursionLab\Q02NestedLoops\bin\Debug\Q02NestedLoops.exe.config
+C:\Users\Don Piter\Desktop\RecursionLab\Q02NestedLoops\obj\Debug\Q02NestedLoops.exe
+C:\Users\Don Piter\Desktop\RecursionLab\Q02NestedLoops\obj\Debug\Q02NestedLoops.pdb
+C:\Users\Don Piter\Desktop\Recursion\Q02NestedLoops\bin\Debug\Q02NestedLoops.exe.config
+C:\Users\Don Piter\Desktop\Recursion\Q02NestedLoops\obj\Debug\Q02NestedLoops.exe
+C:\Users\Don Piter\Desktop\Recursion\Q02NestedLoops\obj\Debug\Q02NestedLoops.pdb

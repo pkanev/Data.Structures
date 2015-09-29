@@ -1,0 +1,12 @@
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\EightQueens\bin\Debug\EightQueens.exe.config
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\EightQueens\bin\Debug\EightQueens.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\EightQueens\bin\Debug\EightQueens.pdb
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\EightQueens\obj\Debug\EightQueens.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\EightQueens\obj\Debug\EightQueens.exe
+C:\Users\p.kanev\Documents\Visual Studio 2013\Projects\DataStructures\RecursionLab\EightQueens\obj\Debug\EightQueens.pdb
+C:\Users\Don Piter\Desktop\RecursionLab\EightQueens\bin\Debug\EightQueens.exe.config
+C:\Users\Don Piter\Desktop\RecursionLab\EightQueens\obj\Debug\EightQueens.exe
+C:\Users\Don Piter\Desktop\RecursionLab\EightQueens\obj\Debug\EightQueens.pdb
+C:\Users\Don Piter\Desktop\Recursion\EightQueens\bin\Debug\EightQueens.exe.config
+C:\Users\Don Piter\Desktop\Recursion\EightQueens\obj\Debug\EightQueens.exe
+C:\Users\Don Piter\Desktop\Recursion\EightQueens\obj\Debug\EightQueens.pdb
