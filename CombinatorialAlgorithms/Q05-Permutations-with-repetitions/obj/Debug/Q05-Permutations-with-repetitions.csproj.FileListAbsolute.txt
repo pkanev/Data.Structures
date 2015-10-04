@@ -1,0 +1,10 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\bin\Debug\Q05-Permutations-with-repetitions.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\bin\Debug\Q05-Permutations-with-repetitions.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\bin\Debug\Q05-Permutations-with-repetitions.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\obj\Debug\Q05-Permutations-with-repetitions.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\obj\Debug\Q05-Permutations-with-repetitions.pdb
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\bin\Debug\Q05-Permutations-with-repetitions.exe.config
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\obj\Debug\Q05-Permutations-with-repetitions.exe
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\obj\Debug\Q05-Permutations-with-repetitions.pdb
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\bin\Debug\Q05-Permutations-with-repetitions.exe
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q05-Permutations-with-repetitions\bin\Debug\Q05-Permutations-with-repetitions.pdb

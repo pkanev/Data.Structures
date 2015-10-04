@@ -1,0 +1,8 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-recursion\bin\Debug\Q04-Generate-subsets-with-recursion.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-recursion\bin\Debug\Q04-Generate-subsets-with-recursion.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-recursion\bin\Debug\Q04-Generate-subsets-with-recursion.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-recursion\obj\Debug\Q04-Generate-subsets-with-recursion.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-recursion\obj\Debug\Q04-Generate-subsets-with-recursion.pdb
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q04-Generate-subsets-with-recursion\bin\Debug\Q04-Generate-subsets-with-recursion.exe.config
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q04-Generate-subsets-with-recursion\obj\Debug\Q04-Generate-subsets-with-recursion.exe
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q04-Generate-subsets-with-recursion\obj\Debug\Q04-Generate-subsets-with-recursion.pdb

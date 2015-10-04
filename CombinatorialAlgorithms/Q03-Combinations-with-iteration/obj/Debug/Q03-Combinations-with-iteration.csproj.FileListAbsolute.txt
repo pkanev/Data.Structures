@@ -1,0 +1,12 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q03-Combinations-with-iteration\bin\Debug\Q03-Combinations-with-iteration.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q03-Combinations-with-iteration\obj\Debug\Q03-Combinations-with-iteration.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q03-Combinations-with-iteration\bin\Debug\Q03-Combinations-with-iteration.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q03-Combinations-with-iteration\bin\Debug\Q03-Combinations-with-iteration.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q03-Combinations-with-iteration\obj\Debug\Q03-Combinations-with-iteration.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q03-Combinations-with-iteration\obj\Debug\Q03-Combinations-with-iteration.pdb
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q03-Combinations-with-iteration\bin\Debug\Q03-Combinations-with-iteration.exe.config
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q03-Combinations-with-iteration\obj\Debug\Q03-Combinations-with-iteration.exe
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q03-Combinations-with-iteration\obj\Debug\Q03-Combinations-with-iteration.pdb
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q03-Combinations-with-iteration\bin\Debug\Q03-Combinations-with-iteration.exe
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q03-Combinations-with-iteration\bin\Debug\Q03-Combinations-with-iteration.pdb
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q03-Combinations-with-iteration\obj\Debug\Q03-Combinations-with-iteration.csprojResolveAssemblyReference.cache

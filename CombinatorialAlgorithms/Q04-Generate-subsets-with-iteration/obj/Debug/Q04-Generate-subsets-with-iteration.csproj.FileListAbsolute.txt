@@ -1,0 +1,8 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-iteration\bin\Debug\Q04-Generate-subsets-with-iteration.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-iteration\bin\Debug\Q04-Generate-subsets-with-iteration.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-iteration\bin\Debug\Q04-Generate-subsets-with-iteration.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-iteration\obj\Debug\Q04-Generate-subsets-with-iteration.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q04-Generate-subsets-with-iteration\obj\Debug\Q04-Generate-subsets-with-iteration.pdb
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q04-Generate-subsets-with-iteration\bin\Debug\Q04-Generate-subsets-with-iteration.exe.config
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q04-Generate-subsets-with-iteration\obj\Debug\Q04-Generate-subsets-with-iteration.exe
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q04-Generate-subsets-with-iteration\obj\Debug\Q04-Generate-subsets-with-iteration.pdb

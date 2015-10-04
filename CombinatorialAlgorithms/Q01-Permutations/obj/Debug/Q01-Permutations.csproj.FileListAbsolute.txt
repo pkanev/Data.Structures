@@ -1,0 +1,9 @@
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q01-Permutations\bin\Debug\Q01-Permutations.exe.config
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q01-Permutations\bin\Debug\Q01-Permutations.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q01-Permutations\bin\Debug\Q01-Permutations.pdb
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q01-Permutations\obj\Debug\Q01-Permutations.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q01-Permutations\obj\Debug\Q01-Permutations.exe
+C:\Users\Don Piter\Documents\Visual Studio 2013\Projects\DataStructuresCourse\CombinatorialAlgorithms\Q01-Permutations\obj\Debug\Q01-Permutations.pdb
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q01-Permutations\bin\Debug\Q01-Permutations.exe.config
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q01-Permutations\obj\Debug\Q01-Permutations.exe
+C:\Users\Don Piter\Desktop\CombinatorialAlgorithms\Q01-Permutations\obj\Debug\Q01-Permutations.pdb
