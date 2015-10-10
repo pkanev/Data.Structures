@@ -1,0 +1,6 @@
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q07-Words\bin\Debug\Q07-Words.exe.config
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q07-Words\bin\Debug\Q07-Words.exe
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q07-Words\bin\Debug\Q07-Words.pdb
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q07-Words\obj\Debug\Q07-Words.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q07-Words\obj\Debug\Q07-Words.exe
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q07-Words\obj\Debug\Q07-Words.pdb

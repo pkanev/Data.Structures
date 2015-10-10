@@ -1,0 +1,6 @@
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q08-Needles\bin\Debug\Q08-Needles.exe.config
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q08-Needles\bin\Debug\Q08-Needles.exe
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q08-Needles\bin\Debug\Q08-Needles.pdb
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q08-Needles\obj\Debug\Q08-Needles.csprojResolveAssemblyReference.cache
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q08-Needles\obj\Debug\Q08-Needles.exe
+C:\Users\Don Piter\Desktop\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Q08-Needles\obj\Debug\Q08-Needles.pdb
